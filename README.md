@@ -1,0 +1,2 @@
+# DbOperationEFCore
+Learning EFCore
